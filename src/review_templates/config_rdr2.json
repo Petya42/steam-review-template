@@ -2,145 +2,145 @@
     "name": "Red Dead Redemption 2",
     "categories": [
         {
-            "title": "Graphics",
+            "title": "Grafika",
             "type": "radio",
             "options": [
-                "You forget what reality is",
-                "Beautiful",
-                "Good",
-                "Decent",
-                "Bad",
-                "Don‘t look too long at it",
-                "MS-DOS"
+                "Felejtsd el a valóságot, ez az",
+                "Nemtudod, hogy nézzed vagy játszál",
+                "A Crushod már jóval szebb",
+                "Nem kell nagyon szétnézni, inkább hunyoríts",
+                "Hát a megmikrózott kefír se szép...",
+                "Grafika szóból vedd ki a Gra részt és voálá",
+                "GTA Remastered Trilogy"
             ]
         },
         {
-            "title": "Gameplay",
+            "title": "Játékmenet",
             "type": "radio",
             "options": [
-                "Very good",
-                "Good",
-                "It's just gameplay",
-                "Mehh",
-                "Watch paint dry instead",
-                "Just don't"
+                "Nem szeretnéd abbahagyni",
+                "EZ IGEN",
+                "Jó-jó, de nem ez fog előrevinni",
+                "Nézd! Nő a fű...",
+                "Ha Mazohista alkat vagy",
+                "A börtöntöltelékek kinzására alkalmas"
             ]
         },
         {
-            "title": "Audio",
+            "title": "Hang/Zene",
             "type": "radio",
             "options": [
-                "Eargasm",
-                "Very good",
-                "Good",
-                "Not too bad",
-                "Bad",
-                "I'm now deaf"
+                "Fülgazmus",
+                "Gyönyörű hang",
+                "Jó lesz",
+                "Szódával elmegy",
+                "Inkább kapcsold ki a hangot",
+                "Rimánkodni fogsz, hogy megsüketülj inkább"
             ]
         },
         {
-            "title": "Audience",
+            "title": "Közönség",
             "type": "check",
             "options": [
-                "Kids",
-                "Teens",
-                "Adults",
-                "Grandma"
+                "Gyerekjáték",
+                "Szőrös már? Akkor élvezni fogod",
+                "Van még hajad? Akkor élvezni fogod",
+                "Nagyanyád is ellenne vele 2 rejtény közt"
             ]
         },
         {
-            "title": "PC Requirements",
+            "title": "Elfut-e a hitvány gépeden?",
             "type": "radio",
             "options": [
-                "Check if you can run paint",
-                "Potato",
-                "Decent",
-                "Fast",
-                "Rich boi",
-                "Ask NASA if they have a spare computer"
+                "Paint megnyílik? Biztonságban vagy",
+                "Suli PC",
+                "Nem lesz elég nagyanyád netezőse",
+                "Itt már az rgb nem segít",
+                "Nincs mit szépíteni, csóró vagy...",
+                "A haverod hallotta, valakitől, hogy valakinek egyszer elindult"
             ]
         },
         {
-            "title": "Game Size",
+            "title": "Méret a lényeg? Helyigény",
             "type": "radio",
             "options": [
-              "Floppy Disk",
-              "Old Fashioned",
-              "Workable",
-              "Big",
-              "Will eat 10% of your 1TB hard drive",
-              "You will want an entire hard drive to hold it",
-              "You will need to invest in a black hole to hold all the data"
+              "A) meghajtó elég lenne",
+              "Régivágású",
+              "Ez még belefér",
+              "Több a kellemesnél",
+              "Felzabálja a merevlemezed",
+              "Hátsókertbe talán elfér...",
+              "Jónapot! Egy Western Digital FeketeLyukat szeretnék rendelni..."
             ]
           },          
         {
-            "title": "Difficulty",
+            "title": "Nehézség",
             "type": "radio",
             "options": [
-                "Just press 'W'",
-                "Easy",
-                "Easy to learn / Hard to master",
-                "Significant brain usage",
-                "Difficult",
-                "Dark Souls"
+                "2+2?",
+                "Semmi",
+                "Könnyen tanulható, de nehéz tökéletesteni",
+                "Dolgozni fog a kis agyacskád",
+                "Szenvedni fogsz",
+                "Halál!Halál!Halál!"
             ]
         },
         {
-            "title": "Grind",
+            "title": "Farmolás",
             "type": "radio",
             "options": [
-                "Nothing to grind",
-                "Only if u care about leaderboards/ranks",
-                "Isn't necessary to progress",
-                "Average grind level",
-                "Too much grind",
-                "You'll need a second life for grinding"
+                "Nincs mit farmolni",
+                "Ha érdekel kinek nincs csaja menj fel a eredménytáblára",
+                "A haladáshoz nem szükséges",
+                "Van mit csinálni ha unatkoznál",
+                "Tesó van életed?",
+                "Találd fel a szervesanyag klónozást mert belegebedsz"
             ]
         },
         {
-            "title": "Story",
+            "title": "Történet",
             "type": "radio",
             "options": [
-                "No Story",
-                "Some lore",
-                "Average",
-                "Good",
-                "Lovely",
-                "It'll replace your life"
+                "Pisztácia nem is volt...",
+                "Háttérben meghúzódó Gyurcsány szál",
+                "Átlagos",
+                "Jó-jó, már-már élvezhető",
+                "Mesélni fogod",
+                "Ez lesz az új éned és átjárja a tested"
             ]
         },
         {
-            "title": "Game Time",
+            "title": "Játékidő",
             "type": "radio",
             "options": [
-                "Long enough for a cup of coffee",
-                "Short",
-                "Average",
-                "Long",
-                "To infinity and beyond"
+                "Mint az ágyban",
+                "Volt már hosszabb is",
+                "Isten alapcsomagja",
+                "Fekete fallosz",
+                "Chuck Norris állítólag kijátszotta"
             ]
         },
         {
-            "title": "Price",
+            "title": "Ára",
             "type": "radio",
             "options": [
-                "It's free!",
-                "Worth the price",
-                "If it's on sale",
-                "If u have some spare money left",
-                "Not recommended",
-                "You could also just burn your money"
+                "Ingyen van! *-*",
+                "Nyugi tesa megéri!",
+                "Megérheti akárcsak a Lidlis fúró",
+                "Hát ha nem költöd el cigire a havit...",
+                "Ecserin sem",
+                "Inkább a piacon zoknit... Kisebbségi kofától"
             ]
         },
         {
-            "title": "Bugs",
+            "title": "Bugok",
             "type": "radio",
             "options": [
-                "Never heard of",
-                "Minor bugs",
-                "Can get annoying",
-                "ARK: Survival Evolved",
-                "The game itself is a big terrarium for bugs"
+                "Bug? Az mi?",
+                "Icipici bogarak, mondjuk katicák",
+                "Itt már rajtad másznak...",
+                "Szedd össze magad szét vagy esve",
+                "Egy bogár élete"
             ]
         },
         {
